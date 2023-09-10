@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+label{
+    font-size: 2rem;
+}
+input{
+    height: 2rem;
+    width: 30rem;
+    border-radius: 10px;
+}
+h1{
+    text-decoration: rgb(255, 0, 0) underline;
+}
+button{
+    background-color: antiquewhite;
+    /* transform: scale(1.6); */
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-left: 1rem;
+}
+button:active{
+    background-color: pink;
+}
+div ol{
+    margin: auto;
+    width: 1rem;
+}
