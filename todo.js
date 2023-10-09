@@ -17,7 +17,7 @@ button.addEventListener("click",function(){
     }
     input.value = "";
 });
-
+// kichu comment add kori tahole bhalo lagbe ig
 // this dile tag ta or jinish ja chilo oita trigger hoy
 // event dile ki kaj hoise oita trigger hoy
 
